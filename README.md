@@ -4,7 +4,6 @@
 # DATE: 29-01-2026
 # REGISTER NUMBER: 25018630
 # NAME: KOWSHIK RAM.S
-
 # AIM: 
 Develop a comprehensive report for the following exercises:
 
@@ -27,7 +26,6 @@ Step 1: Define Scope and Objectives
 1.3 Draft a list of core topics to cover
 
 Step 2: Create Report Skeleton/Structure
-
 2.1 Title Page
 
 2.2 Abstract or Executive Summary
@@ -59,8 +57,6 @@ Step 2: Create Report Skeleton/Structure
 2.6 Conclusion
 
 2.7 References
-
-________________________________________
 
 Step 3: Research and Data Collection
 
@@ -180,8 +176,6 @@ Beyond pure vision, multimodal transformers connect text, images, and sometimes 
 Models like CLIP align text and image embeddings for search and zero-shot recognition.
 
 Text-to-image systems (e.g., DALL‑E variants) and image captioning leverage transformer decoders for coherent cross‑modal generation.
-
-
 **Audio, speech, and music**<br>
 In audio, transformers model long temporal contexts better than traditional sequence models.
 They are used for:
@@ -226,7 +220,6 @@ Construction starts with tokenization, breaking text into subwords via methods l
 - **Pre-training**: Autoregressive prediction on petabytes of internet-scale text to learn language patterns, consuming immense compute.[2]
 - **Fine-tuning**: Task-specific adaptation with smaller datasets for accuracy.[7]
 - **Alignment**: RLHF refines behavior for safety and helpfulness.[7]
-
 This process scales performance predictably but demands optimizations for efficiency.[1]
 
 # Result:
