@@ -220,7 +220,4 @@ Construction starts with tokenization, breaking text into subwords via methods l
 - **Pre-training**: Autoregressive prediction on petabytes of internet-scale text to learn language patterns, consuming immense compute.[2]
 - **Fine-tuning**: Task-specific adaptation with smaller datasets for accuracy.[7]
 - **Alignment**: RLHF refines behavior for safety and helpfulness.[7]
-This process scales performance predictably but demands optimizations for efficiency.[1]
-
-# Result:
-Thus a comprehensive report has been generated for the given topics.
+# Result: Thus a comprehensive report has been generated for the given topics.
